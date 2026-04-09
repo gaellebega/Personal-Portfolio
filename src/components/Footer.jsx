@@ -1,8 +1,14 @@
+import { RiLinkedinFill } from "react-icons/ri"
+
+
 function Footer(){
   return(
-    <ul>
-      <p><li>This is footer</li></p>
-    </ul>
+  <>
+  <div>
+    <p><a>find me in:</a></p>
+    <RiLinkedinFill/>
+  </div>
+  </>
   )
 }
 export default Footer
