@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 function Navigation() {
   return (
-    <nav className="border border-gray-700 p-4 h-16 relative ">
+    <nav className="border bg-[#0b1120] border-gray-700 p-4 h-16 relative ">
       <div className="inset-0 absolute flex items-center h-full divide-x divide-gray-700 ">
         <div className=" flex items-center text-[#2f435f] px-4 h-full">
           <Link to="/"><p>ishami-gaelle-bega</p></Link>
