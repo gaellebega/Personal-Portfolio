@@ -17,7 +17,7 @@ function About() {
 
         <li>
           <input type="checkbox" class="" />
-       <RiMacbookLine className="text-xl" />
+          <RiMacbookLine className="text-xl" />
           <label>Frontend</label>
         </li >
 
